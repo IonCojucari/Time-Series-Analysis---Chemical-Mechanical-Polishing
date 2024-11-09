@@ -1,4 +1,4 @@
-# Time Series Analysis - Chemical Mechanical Polishing
+# Time Series Analysis
 
 This project analyzes time series data from a Chemical Mechanical Polishing (CMP) process, which is used in the semiconductor industry to polish wafer surfaces. The goal is to predict and explain the average material removal rate of wafers based on historical data.
 
